@@ -177,7 +177,7 @@ Connection con;
     //Statement stmt;
     //ResultSet rs;
     String url ="jdbc:mysql://localhost/caloryjc";
-    String user ="jcostadev";
+    String user ="root";
     String password="Passw0rd";
     String driver = "com.mysql.jdbc.Driver";
     createUser wdw = null;

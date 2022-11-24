@@ -125,7 +125,7 @@ public class UsersList extends javax.swing.JFrame {
         Statement stmt;
         ResultSet rs;
         String url ="jdbc:mysql://localhost/caloryjc";
-        String user ="jcostadev";
+        String user ="root";
         String password="Passw0rd";
         String driver = "com.mysql.jdbc.Driver";
         int count;

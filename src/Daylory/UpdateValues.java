@@ -202,7 +202,7 @@ public class UpdateValues extends javax.swing.JFrame {
     
    // ResultSet rs;
     String url ="jdbc:mysql://localhost/caloryjc";
-    String User ="jcostadev";
+    String User ="root";
     String password="Passw0rd";
     String driver = "com.mysql.jdbc.Driver";
     
